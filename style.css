@@ -113,9 +113,6 @@
         }
 
         /* Header */
-        #header31:hover,#header41:hover,#header51:hover,#header61:hover{
-            color: #3498db;
-        }
         #header11{
             height: 60px;
             width: 25%;
@@ -135,7 +132,9 @@
             background-color: white;
             float: left;
         }
-        
+        #header31:hover,#header41:hover,#header51:hover,#header61:hover{
+            color: #3498db;
+        }
         #header41{
             height: 60px;
             width: 10%;
